@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/rajatbansal/IdeaProjects/todoapi/target/scala-2.12/todoapi_2.12-0.1-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajatbansal/IdeaProjects/todoapi/src/main/resources/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Helpers.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajatbansal/IdeaProjects/todoapi/src/main/scala/Helpers.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajatbansal/IdeaProjects/todoapi/src/main/scala/Server.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Router.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajatbansal/IdeaProjects/todoapi/src/main/scala/Router.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ApiError.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajatbansal/IdeaProjects/todoapi/src/main/scala/ApiError.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Models.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajatbansal/IdeaProjects/todoapi/src/main/scala/Models.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AshScriptPlugin.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajatbansal/IdeaProjects/todoapi/AshScriptPlugin.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajatbansal/IdeaProjects/todoapi/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todorepo.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajatbansal/IdeaProjects/todoapi/src/main/scala/todorepo.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidator.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajatbansal/IdeaProjects/todoapi/src/main/scala/UserValidator.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rajatbansal/IdeaProjects/todoapi/src/main/resources/logback.xml[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
